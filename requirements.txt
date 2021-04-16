@@ -1,7 +1,11 @@
 numpy==1.19.2
-matplotlib==3.3.2
-stylecloud==0.5.1
+textblob==0.15.3
+twcloud==0.1
+twint==2.1.20
+pandas==1.1.3
 wordcloud==1.8.1
 streamlit==0.79.0
-Pillow==8.1.2
-
+matplotlib==3.3.2
+plotly==4.14.3
+stylecloud==0.5.1
+Pillow==8.2.0
