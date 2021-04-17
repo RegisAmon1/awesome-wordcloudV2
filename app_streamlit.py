@@ -275,8 +275,8 @@ def main():
         colormap = st.sidebar.selectbox("Palette ?",["ArmyRose_5","Earth_5","Fall_5","Geyser_5","TealRose_5","Tropic_5","Temps_5"])
     if color_collection == "sequential":
         colormap = st.sidebar.selectbox("Palette ?",["BluGrn_5","BluYl_5","BrwnYl_5","Burg_5","BurgYl_5","DarkMint_5","Emrld_5","Magenta_5","OrYel_5","PurpOr_5","Sunset_5","SunsetDark_5","TealGrn_5","agGrnYl_5"])
-    #background_color=st.sidebar.selectbox("Background Color ?",["white","black"])
-    background_color = st.sidebar.color_picker("Background color")
+    background_color=st.sidebar.selectbox("Background Color ?",["white","black"])
+    #background_color = st.sidebar.color_picker("Background color")
     icon = st.sidebar.selectbox("Icon ?",["flag","at","cloud","smile","thumbs-up","user","bolt","angle-right","angle-double-right","mask","calendar-check"
                                                ,"balance-scale","battery-full","bell","birthday-cake","search","tag","dog","barcode",
                                                "book-reader","chart-line","coffee","comment","comments","tshirt","bullseye","clinic-medical","house-user","hospital-alt"
