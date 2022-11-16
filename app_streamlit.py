@@ -280,9 +280,10 @@ def main():
     icon = st.sidebar.selectbox("Icon ?",["flag","at","cloud","smile","thumbs-up","user","bolt","angle-right","angle-double-right","mask","calendar-check"
                                                ,"balance-scale","battery-full","bell","birthday-cake","search","tag","dog","barcode",
                                                "book-reader","chart-line","coffee","comment","comments","tshirt","bullseye","clinic-medical","house-user","hospital-alt"
-                                               ,"cube","cubes","expand-arrows-alt","mug-hot","bullhorn","egg","envelope",
+                                               ,"cube","cubes","expand-arrows-alt","mug-hot","bullhorn","egg","envelope","lock","user-lock","lock-hashtag","building-lock","key","hand-spock",
                                                "glass-martini","globe-africa","grin","grin-hearts","graduation-cap","laugh"
-                                               ,"microphone","paper-plane","lock-open","percent","hand-holding-medical","people-carry","hand-holding-heart","comment-medical","file-medical","heart","heartbeat","brain","book-medical","laptop-medical"])
+                                               ,"microphone","paper-plane","lock-open","percent","hand-holding-medical","people-carry"
+                                                ,"hand-holding-heart","comment-medical","file-medical","heart","heartbeat","brain","book-medical","laptop-medical"])
     invert_mask = st.sidebar.selectbox("Invert mask ?",["No","Yes"])
     st.sidebar.write("[By Régis Amon](https://www.linkedin.com/in/r%C3%A9gis-amon-87669665/)")
     st.sidebar.write("[Using the Stylecloud library created by Minimaxir](https://github.com/minimaxir/stylecloud)")
