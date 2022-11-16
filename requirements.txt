@@ -1,4 +1,4 @@
-numpy==1.19.2
+numpy
 textblob==0.15.3
 twcloud==0.1
 twint==2.1.20
