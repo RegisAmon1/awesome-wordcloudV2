@@ -70,7 +70,7 @@ def cloud( text, max_word, max_font, random,colormap,background_color,gradient_d
 "vivat","vive","vives","vlan","voici","voilà","vont","vos","votre","vôtre","vôtres","vous","vous-mêmes","vu",
 "w","x","y","z","zut","alors","aucuns","bon","devrait","dos","droite","début","essai","faites","fois","force",
 "haut","ici","juste","maintenant","mine","mot","nommés","nouveaux","parce","parole","personnes","pièce",
-"plupart","seulement","soyez","sujet","tandis","valeur","voie","voient","état","étions"])
+"plupart","seulement","soyez","sujet","tandis","valeur","voie","voient","état","étions","jusqu'à"])
 
 
 
