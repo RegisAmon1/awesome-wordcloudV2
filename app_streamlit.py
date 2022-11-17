@@ -278,7 +278,7 @@ def main():
     background_color=st.sidebar.selectbox("Background Color ?",["white","black"])
     #background_color = st.sidebar.color_picker("Background color")
     icon = st.sidebar.selectbox("Icon ?",["flag","at","cloud","smile","thumbs-up","user","bolt","angle-right","angle-double-right","mask","calendar-check"
-                                               ,"balance-scale","battery-full","bell","birthday-cake","search","tag","dog","barcode",
+                                               ,"balance-scale","battery-full","bell","birthday-cake","search","tag","dog","barcode","user-secret","shield-halver","shield-check","shield","binary-lock",
                                                "book-reader","chart-line","coffee","comment","comments","tshirt","bullseye","clinic-medical","house-user","hospital-alt"
                                                ,"cube","cubes","expand-arrows-alt","mug-hot","bullhorn","egg","envelope","lock","user-lock","lock-hashtag","building-lock","key","hand-spock",
                                                "glass-martini","globe-africa","grin","grin-hearts","graduation-cap","laugh"
