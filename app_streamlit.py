@@ -292,6 +292,7 @@ def main():
 
     if text is not None:
         if st.button("Generate Wordcloud"):
+            text = text.upper()
           
        
             st.write("### Word cloud")
