@@ -295,7 +295,7 @@ def main():
           
        
             st.write("### Word cloud")
-            st.write(cloud(text, max_word, max_font, random,colormap,background_color,gradient_direction,icon,size2,invert_mask,gradient,font,origin,search,limit,color_collection), use_column_width=True)
+            st.write(cloud(text, max_word, max_font, random,colormap,background_color,gradient_direction,icon,size2,invert_mask,gradient,font,origin,search,limit,color_collection))
             st.write("Right click on the image then choose ***Save as*** to download the Wordcloud")
             #st.balloons()
     
