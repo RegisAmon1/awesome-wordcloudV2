@@ -264,7 +264,7 @@ def main():
     text = st.text_area("Copy-Paste some text here...")
     #choix de la police
     
-    font = st.sidebar.selectbox("Font",["Staatliches","ArchitectsDaughter","Roboto","PermanentMarker","Pacifico"])
+    font = st.sidebar.selectbox("Font",["Staatliches","ArchitectsDaughter","Roboto","PermanentMarker","Pacifico","Poppins-Bold"])
     
     
     # ajout de couleur creez fonction 
